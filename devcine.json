@@ -1,0 +1,73 @@
+{
+    "filmes": [
+        {
+            "titulo": "A Volta dos que Foram",
+            "valor": 25,
+            "ano": "2022",
+            "roteiro": "Oliver.S Lucas",
+            "id": 1
+        },
+        {
+            "titulo": "Confia no Processo",
+            "valor": 2,
+            "ano":"2022",
+            "roteiro": "Resistencia:LTDA",
+            "id": 2
+        },
+        {
+            "titulo": "O último Dev Java: A Redenção",
+            "valor": 35,
+            "ano": "2024",
+            "roteiro": "James Gosling",
+            "id": 3
+        },
+        {
+            "titulo": "Pistoleiro Sem Dedo",
+            "valor": 25,
+            "ano": "2023",
+            "roteiro":"Oliver.S Lucas",
+            "id": 4
+        } 
+    ],
+    "salas-vip": [
+        {
+            "sala-vp": "1",
+            "lugares": "25",
+            "id": 1
+        },
+        {
+            "sala-vp": "2",
+            "lugares": "25",
+            "id": 2
+        },
+        {
+            "sala-vp": "3",
+            "lugares": "25",
+            "id": 3
+        },
+        {
+            "sala-vp": "4",
+            "lugares": "25",
+            "id": 4
+        }
+    ],
+    "horarios": [
+        {
+            "a-volta-dos-que-foram": "10:00h",
+            "id": 1
+        },
+        {
+            "pistoleiro-sem-dedo": "11:00h",
+            "id": 2
+        },
+        {
+            "confia-no-processo": "12:00h",
+            "id": 3
+        },
+        {
+            "o-ultimo-dev": "13:00h",
+            "id":4
+        }
+    ]
+    
+}
